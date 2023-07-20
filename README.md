@@ -29,16 +29,16 @@
 
 # 🌲Data Folder tree
 ```bash
-##### └─data
-#####    ├─augmented
-#####    ├─original
-#####    │  ├─train
-#####    │  └─valid
-#####    └─yolo-format
-#####        ├─images
-#####        │  ├─train
-#####        │  └─valid
-#####        └─labels
-#####            ├─train
-#####            └─valid
+└─data
+    ├─augmented
+    ├─original
+    │  ├─train
+    │  └─valid
+    └─yolo-format
+        ├─images
+        │  ├─train
+        │  └─valid
+        └─labels
+            ├─train
+            └─valid
 ```
