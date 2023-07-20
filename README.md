@@ -1,5 +1,5 @@
 # 🚀Visionary-Unicorns-Project
-### Contain original Penguins vs Turtles dataset from Kaggle in the data fold
+### Contain original Penguins vs Turtles dataset from Kaggle in the data/original folder
 ### https://www.kaggle.com/datasets/abbymorgan/penguins-vs-turtles
 
 # 🔥Project Migration / Integrate all in one
