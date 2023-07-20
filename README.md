@@ -25,3 +25,18 @@
 ##### c. Click ok. Then u will see the updated project.ipynb in our repo
 
 ### Step 7: Happy coding 💀
+
+
+# 🌲Data Folder tree
+└─data
+    ├─augmented
+    ├─original
+    │  ├─train
+    │  └─valid
+    └─yolo-format
+        ├─images
+        │  ├─train
+        │  └─valid
+        └─labels
+            ├─train
+            └─valid
