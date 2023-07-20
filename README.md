@@ -1,4 +1,4 @@
-# 🚀Visionary-Unicorns-Data
+# 🚀Visionary-Unicorns-Project
 ### Contain original Penguins vs Turtles dataset from Kaggle in the data fold
 ### https://www.kaggle.com/datasets/abbymorgan/penguins-vs-turtles
 
@@ -11,11 +11,11 @@
 ### Step 1: Open project.ipynb notebook file
 
 ### Step 2: Clone the repo to Google Colab notebook, run the below command in Colab cell first
-##### !git clone https://github.com/DamnScallion/Visionary-Unicorns-Data.git
+##### !git clone https://github.com/DamnScallion/Visionary-Unicorns-Project.git
 
-### Step 3: Click the folder icon 🗀 on the Colab notebook left-hand side, will see the folder names Visionary-Unicorns-Data
+### Step 3: Click the folder icon 🗀 on the Colab notebook left-hand side, will see the folder names Visionary-Unicorns-Project
 
-### Step 4: Copy and paste your code in the project.ipynb
+### Step 4: Copy and paste your code into the project.ipynb
 
 ### Step 5: Change all paths to align with the Visionary-Unicorns-Data folder
 
