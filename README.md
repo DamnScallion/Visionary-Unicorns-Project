@@ -28,6 +28,7 @@
 
 
 # 🌲Data Folder tree
+```bash
 ##### └─data
 #####    ├─augmented
 #####    ├─original
@@ -40,3 +41,4 @@
 #####        └─labels
 #####            ├─train
 #####            └─valid
+```
