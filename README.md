@@ -7,7 +7,7 @@
 ### More important, we can run anyone's cells in Colab though it wasn't written by you. Cuz it wasn't mounted with a personal Drive anymore 🔗‍💥
 ### Unfortunately, Google Colab doesn't support clone private repo. So we need to keep it public.
 
-# 🛠️Usage
+# 🛠️Usage (Useful Tutorial Video https://youtu.be/FGNDZu0fCWQ)
 ### Step 1: Click project.ipynb notebook file and then click the Open in Colab icon at the top
 
 ### Step 2: Clone the repo to Google Colab notebook, run the below command in Colab cell first
