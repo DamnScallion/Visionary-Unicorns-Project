@@ -1,10 +1,9 @@
 # Modify <path> value to absolute path, or it will occur bugs
-path: /content/Visionary-Unicorns-Project/data/yolo-format # dataset root dir
-train: images/train # train images (relative to 'path')
-val: images/valid # val images (relative to 'path')
+# path: /content/Visionary-Unicorns-Project/data/yolo-format/original # dataset root dir
+# path: ../data-yolo-format/original # dataset root dir
+train: ../data-yolo-format/original/images/train # train images (relative to 'path')
+val: ../data-yolo-format/original/images/valid # val images (relative to 'path')
 
+nc: 2
 # Classes
-names:
-  0: unknown
-  1: penguin
-  2: turtle
+names: ["penguin", "turtle"]
