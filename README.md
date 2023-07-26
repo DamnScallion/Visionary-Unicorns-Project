@@ -31,10 +31,21 @@
 ```bash
 └─data
     ├─augmented
-    ├─original
-    │  ├─train
-    │  └─valid
-    └─yolo-format
+    │  └─train
+    └─original
+        ├─train
+        └─valid
+```
+
+# 🌲YOLO Data Folder tree
+```bash
+└─data-yolo-format
+    ├─augmented
+    │  ├─images
+    │  │  └─train
+    │  └─labels
+    │      └─train
+    └─original
         ├─images
         │  ├─train
         │  └─valid
