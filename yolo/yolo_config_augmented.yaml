@@ -1,0 +1,9 @@
+# Image paths
+train: ../data-yolo-format/augmented/images/train # train images
+val: ../data-yolo-format/original/images/valid # val images
+
+# Number of class, it's binary task for our project
+nc: 2
+
+# Classes, 0 - penguin, 1 - turtle
+names: ["penguin", "turtle"]
