@@ -30,8 +30,8 @@
 # 🌲Data Folder tree
 ```bash
 └─data
-    ├─augmented
-    │  └─train
+    ├─5k_augmented
+    │  └─5k_train
     └─original
         ├─train
         └─valid
@@ -40,7 +40,7 @@
 # 🌲YOLO Data Folder tree
 ```bash
 └─data-yolo-format
-    ├─augmented
+    ├─5k_augmented
     │  ├─images
     │  │  └─train
     │  └─labels
