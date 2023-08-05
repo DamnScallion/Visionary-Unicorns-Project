@@ -17,7 +17,7 @@
 
 ### Step 4: Copy and paste your code into the current .ipynb file
 
-### Step 5: Change all paths to align with the Visionary-Unicorns-Data folder
+### Step 5: Change all paths to align with the Visionary-Unicorns-Project folder
 
 ### Step 6: Update notebook code to the Github repo. 
 ##### a. Click File at the top of Colab notebook, and select Save a copy in Github.
