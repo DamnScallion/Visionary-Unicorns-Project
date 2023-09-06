@@ -53,3 +53,14 @@
             ├─train
             └─valid
 ```
+
+# 👻Other Useful Commands:
+### Git clone
+git clone <https://name-of-the-repository-link>
+### Git branch
+###### Creating a new branch:
+git branch BRANCH-NAME
+###### Viewing branches:
+git branch or git branch --list
+###### Deleting a branch:
+git branch -d BRANCH-NAME
